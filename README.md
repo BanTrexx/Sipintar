@@ -5,6 +5,7 @@ Dibangun menggunakan **Flutter**, aplikasi ini menyediakan antarmuka yang intuit
 - **Katalog & Rekomendasi**: Penelusuran berbagai varian pupuk hasil produksi lokal.
 - **Transaksi Terintegrasi**: Sistem pembelian langsung yang memudahkan proses pemesanan bagi pengguna.
 - **Pelacakan Pesanan**: Transparansi status transaksi melalui sistem pencarian ID Transaksi yang unik.
+- **Repository frontend**: [https://github.com/BanTrexx/Sipintar](https://github.com/BanTrexx/Sipintar)
 
 ## ⚙️ Backend & Panel Admin
 Sistem ini didukung oleh infrastruktur berbasis **Laravel** yang berfungsi ganda sebagai:
